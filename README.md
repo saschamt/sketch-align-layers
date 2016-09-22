@@ -15,3 +15,5 @@ Sketch.
 1. [Download the plugin repository](https://github.com/daneden/sketch-align-layers/archive/master.zip)
 2. Double-click the `.sketchplugin` file
 3. In Sketch, run the plugin with one of the shortcuts.
+
+![Screenshot](/align.png?raw=true "Screenshot showing the plugin")
