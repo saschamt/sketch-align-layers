@@ -1,6 +1,7 @@
 forked from [daneden's repository](https://github.com/daneden/sketch-align-layers)
 
 # Align Layers
+### With easier shortcuts for QWERTZ keyboards
 Add a keyboard shortcut to the "Align layers" functions in
 Sketch.
 
